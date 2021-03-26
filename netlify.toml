@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://app.daohaus.club"
+  status = 301
+  force = true
